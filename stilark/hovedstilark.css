@@ -1,0 +1,45 @@
+body {
+    background-color: #d4d1d1;
+    font-family: Georgia, serif;
+  }
+  #hoved {
+    width: 60%;                  
+    margin: 50px auto;          
+    padding: 40px;                 
+    background-color: rgb(19, 17, 20);      
+    
+  }
+  #bunntekst {
+    width: 60%;                  
+    margin: 50px auto;          
+    padding: 40px;                 
+    background-color: rgb(241, 234, 241);      
+    
+  }
+  h1, h2 {
+    font-family: Arial, sans-serif; 
+  }
+
+  body {
+    background-color: #a3a39f;
+    font-family: Georgia, serif;
+  }
+  #hoved {
+    width: 60%;                  
+    margin: 50px auto;          
+    padding: 40px;                 
+    background-color: rgb(146, 37, 173)     
+    
+  }
+  #bunntekst {
+    width: 60%;                  
+    margin: 50px auto;          
+    padding: 40px;                 
+    background-color: rgb(146, 37, 173);      
+    
+  }
+  h1, h2 {
+    font-family: Arial, sans-serif; 
+  }
+
+ 
